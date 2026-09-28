@@ -1,9 +1,14 @@
 {
   "name": "Gym.Mind",
   "short_name": "Gym.Mind",
+  "id": "./",
   "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#07130d",
   "theme_color": "#07130d",
-  "description": "Gym.Mind fitness and exercise app"
+  "description": "Gym.Mind fitness and exercise app",
+  "lang": "en",
+  "dir": "ltr",
+  "orientation": "portrait"
 }
